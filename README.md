@@ -4,6 +4,10 @@
 
 FettyTools is a collection of browser-based educational tools developed by Jason Fetty, a librarian with experience in information literacy instruction, educational technology, and interactive learning content.
 
+## Try FettyTools
+
+**[Launch FettyTools Quiz Editor](https://jasonfetty.github.io/FettyTools/)**
+
 ## Quiz Builder
 
 The FettyTools Quiz Builder enables educators, librarians, and instructional designers to create interactive quizzes without programming knowledge.
