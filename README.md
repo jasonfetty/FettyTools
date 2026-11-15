@@ -10,8 +10,14 @@ The FettyTools Quiz Builder enables educators, librarians, and instructional des
 
 ### Features
 
-- Create multiple-choice and true/false questions.
+- Create interactive quizzes using five question types:
+  - Multiple choice (one answer)
+  - Multiple answers (checkboxes)
+  - True / False
+  - Fill in the blanks
+  - Mark the words (click text)
 - Edit and organize questions through a visual interface.
+- Preview quizzes from the student's perspective.
 - Save and reload quiz projects using JSON files.
 - Export standalone HTML quizzes.
 - Embed exported quizzes in websites and learning guides.
