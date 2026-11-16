@@ -3,6 +3,60 @@
 **Interactive educational tools for creating quizzes, learning activities, and reusable teaching content.**
 
 FettyTools is a collection of browser-based educational tools developed by Jason Fetty, a librarian with experience in information literacy instruction, educational technology, and interactive learning content.
+FETTYTOOLS - PROJECT README
+================================
+
+PROJECT: FettyTools
+TYPE: Educational Software / Research Tools
+DEVELOPER: Jason Fetty
+DEVELOPMENT METHOD: AI-Assisted (Vibe Coding)
+PLATFORM: HTML / CSS / JavaScript
+STATUS: Active Development
+
+LAST REVIEWED: November 16, 2026
+
+PROJECT DESCRIPTION
+-------------------
+FettyTools is a collection of lightweight,
+browser-based educational applications
+designed to support teaching, learning,
+and academic research.
+
+The project emphasizes practical tools
+that users can operate independently,
+without expensive software subscriptions
+or unnecessary technical complexity.
+
+The applications are intended primarily
+for students, educators, researchers,
+and librarians.
+
+DEVELOPMENT PHILOSOPHY
+----------------------
+FettyTools emphasizes user control,
+transparency, accessibility, and
+independent learning.
+
+Core principles:
+
+- Assist users rather than replace them.
+- Support learning through interaction.
+- Keep users responsible for decisions.
+- Avoid unnecessary automation.
+- Prefer simple, understandable interfaces.
+- Support offline use where practical.
+- Avoid mandatory accounts and subscriptions.
+- Make tools easy to share and reuse.
+
+RESEARCH ASSISTANT PHILOSOPHY
+----------------------------
+Research assistants are not automated
+research systems.
+
+FettyTools applications should help
+researchers understand and perform
+research tasks rather than independently
+conducting searches or making research
 
 ## Try FettyTools
 
